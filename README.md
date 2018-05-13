@@ -6,3 +6,14 @@ after move only Same value that can merge and set stay at size that we move
 
 ![alt text](https://github.com/poorinp/poorinp.github.io/blob/master/src/pic01.png)
 
+**UML Class Diagram**
+
+![alt text](https://github.com/poorinp/poorinp.github.io/blob/master/src/Uml.ucls)
+
+**Installation**
+You download it here 
+
+https://github.com/WuttipatNilsiri/2048Game/tree/master/jar
+
+Requirement : Java
+
