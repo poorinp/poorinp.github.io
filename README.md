@@ -5,12 +5,10 @@
 after move only Same value that can merge and set stay at size that we move
 
 <img src = "https://github.com/poorinp/poorinp.github.io/blob/master/src/pic01.png">
-[[https://github.com/poorinp/poorinp.github.io/blob/master/src/pic01.png|alt=pic01]]
 
 **UML Class Diagram**
 
 <img src = "https://github.com/poorinp/poorinp.github.io/blob/master/src/uml.jpg">
-[[https://github.com/poorinp/poorinp.github.io/blob/master/src/uml.jpg|alt=uml]]
 
 
 **Installation**
