@@ -8,7 +8,7 @@ after move only Same value that can merge and set stay at size that we move
 
 **UML Class Diagram**
 
-![alt text](https://github.com/poorinp/poorinp.github.io/blob/master/src/Uml.ucls)
+![alt text](https://github.com/poorinp/poorinp.github.io/blob/master/src/uml.jpg)
 
 **Installation**
 You download it here 
