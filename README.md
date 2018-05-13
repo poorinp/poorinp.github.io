@@ -4,12 +4,10 @@
 **2048 Game** is a Game that move blocks to get 2048 value Block start with 2 block that have value 2 or 4. 
 after move only Same value that can merge and set stay at size that we move
 
-![alt text](https://github.com/poorinp/poorinp.github.io/blob/master/src/pic01.png)
 <img src = "https://github.com/poorinp/poorinp.github.io/blob/master/src/pic01.png">
 
 **UML Class Diagram**
 
-![alt text](https://github.com/poorinp/poorinp.github.io/blob/master/src/uml.jpg)
 <img src = "https://github.com/poorinp/poorinp.github.io/blob/master/src/uml.jpg">
 
 **Installation**
